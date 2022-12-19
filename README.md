@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Subash aravindh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subasharavindh&label=Profile%20views&color=0e75b6&style=flat" alt="subasharavindh" /> </p>
 
 - 🔭 I’m currently working on **data analytics**
 
@@ -21,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subasharavindh&show_icons=true&locale=en" alt="subasharavindh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subasharavindh&" alt="subasharavindh" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subasharavindh&label=Profile%20views&color=0e75b6&style=flat" alt="subasharavindh" /> </p>
